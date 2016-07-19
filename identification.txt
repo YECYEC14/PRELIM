@@ -1,0 +1,6 @@
+I.
+a.)For me a single-threaded one is to one command process.
+b.)For me the event driven architecture is reaction in every program. 
+c.) The benefits of a javascript module can allow the user to separate the work.
+d.)The two implementations of  javascript are asynchronous and synchronous.
+e.)For me a module bundler is joined to together, and it's package every program has run.
